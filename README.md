@@ -39,6 +39,12 @@ Python Syntax compared to other programming languages
 > Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
 
 
+LISTS
+
+List Methods
+Python has a set of built-in methods that you can use on lists.
+
+
 
 TUPLES
 

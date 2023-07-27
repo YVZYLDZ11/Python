@@ -44,7 +44,9 @@ LISTS
 List Methods
 Python has a set of built-in methods that you can use on lists.
 
-
+Method	Description
+append()	Adds an element at the end of the list
+clear()	Removes all the elements from the list
 
 TUPLES
 

@@ -37,3 +37,14 @@ Python Syntax compared to other programming languages
 > Python was designed for readability, and has some similarities to the English language with influence from mathematics.
 > Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.
 > Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
+
+
+
+TUPLES
+
+Tuple Methods
+Python has two built-in methods that you can use on tuples.
+
+Method	Description
+count()	Returns the number of times a specified value occurs in a tuple
+index()	Searches the tuple for a specified value and returns the position of where it was found
